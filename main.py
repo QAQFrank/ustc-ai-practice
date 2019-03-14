@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # Fixing random state for reproducibility
-np.random.seed(19680801)
+np.random.seed(19990103)
 
 # Compute areas and colors
 N = 150
